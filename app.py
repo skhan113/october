@@ -3,5 +3,6 @@ Name = "Salman"
 Last Name = "Khan"
 Age = "24"
 print (Age)
-One new replaced line
 print (Name)
+my_list = (1,2,3,4)
+print (my_list)
