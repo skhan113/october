@@ -3,4 +3,5 @@ Name = "Salman"
 Last Name = "Khan"
 Age = "24"
 print (Age)
-Text line
+One new replaced line
+print (Name)
