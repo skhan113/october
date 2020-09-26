@@ -1,4 +1,5 @@
 Add a new line
+#add a comment
 Name = "Salman"
 Last Name = "Khan"
 Age = "24"
